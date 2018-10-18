@@ -1,0 +1,14 @@
+body {
+    background: violet;
+    color: yellow;
+}
+
+#first paragraph {
+    font-size: 36px;
+}
+
+.headers {
+    font-family:impact;
+    color: yellow;
+    text-align: center;
+}
